@@ -28,13 +28,32 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+Spotify 
+
+- Display friend's listening activity on the app
+- Display next song queued
+
+Tiktok
+
+- Watching tiktoks with friends at the same time
+- Categories for different types of content
+
+Instagram
+
+- Add a map that shows live location to selected friends
+- Add a memories section for past stories posted
+
+App Idea:
+
+A comprehensive study and productivity app designed to support students. It'll include a progress tracker to monitor study hours and achievements. As well as options to set different goals and receive study-related reminders. To enhance collaboration, the app will also facilitate study groups, allowing for students to connect with peers studying similar materials.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Getting used to SWIFT is difficult but doable.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Michael Le]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
