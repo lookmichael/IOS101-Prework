@@ -2,7 +2,7 @@
 
 Submitted by: Michael Le
 
-IOS101-Prework is an app that... [TODO] 
+IOS101-Prework is an app that displays my first IOS app
 
 Time spent: **2** hours spent in total
 
